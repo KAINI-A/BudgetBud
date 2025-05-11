@@ -1,0 +1,81 @@
+{
+  "transactions": [
+    {
+      "date": "05/11/2025 01:19",
+      "description": "Rent",
+      "amount": "420",
+      "kind": "Expense",
+      "category": "Rent"
+    },
+    {
+      "date": "05/11/2025 01:20",
+      "description": "Groceries",
+      "amount": "200",
+      "kind": "Expense",
+      "category": "Food"
+    },
+    {
+      "date": "05/11/2025 01:20",
+      "description": "Bar",
+      "amount": "60",
+      "kind": "Expense",
+      "category": "Entertainment"
+    },
+    {
+      "date": "05/11/2025 01:21",
+      "description": "Uber",
+      "amount": "24",
+      "kind": "Expense",
+      "category": "Transport"
+    },
+    {
+      "date": "05/11/2025 01:21",
+      "description": "Invest",
+      "amount": "200",
+      "kind": "Expense",
+      "category": "Other"
+    },
+    {
+      "date": "05/11/2025 01:22",
+      "description": "Paycheck1",
+      "amount": "600",
+      "kind": "Income",
+      "category": "Other"
+    },
+    {
+      "date": "05/11/2025 01:23",
+      "description": "Paycheck2",
+      "amount": "800",
+      "kind": "Income",
+      "category": "Other"
+    },
+    {
+      "date": "05/11/2025 19:24",
+      "description": "Uber eats",
+      "amount": "14",
+      "kind": "Expense",
+      "category": "Food"
+    },
+    {
+      "date": "05/11/2025 19:43",
+      "description": "Paycheck3",
+      "amount": "800",
+      "kind": "Income",
+      "category": "Other"
+    }
+  ],
+  "goals": [
+    {
+      "name": "BacktoNepal",
+      "target": "4000"
+    },
+    {
+      "name": "Macbook",
+      "target": "1200"
+    },
+    {
+      "name": "Chair",
+      "target": "300"
+    }
+  ]
+}
