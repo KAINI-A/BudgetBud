@@ -3,9 +3,9 @@
     {
       "date": "05/11/2025 01:19",
       "description": "Rent",
-      "amount": "420",
+      "amount": "200",
       "kind": "Expense",
-      "category": "Rent"
+      "category": "Other"
     },
     {
       "date": "05/11/2025 01:20",
@@ -50,16 +50,23 @@
       "category": "Other"
     },
     {
-      "date": "05/11/2025 19:24",
-      "description": "Uber eats",
-      "amount": "14",
-      "kind": "Expense",
-      "category": "Food"
-    },
-    {
       "date": "05/11/2025 19:43",
       "description": "Paycheck3",
       "amount": "800",
+      "kind": "Income",
+      "category": "Other"
+    },
+    {
+      "date": "05/11/2025 19:56",
+      "description": "Amazon",
+      "amount": "200",
+      "kind": "Expense",
+      "category": "Entertainment"
+    },
+    {
+      "date": "05/11/2025 19:56",
+      "description": "Side H",
+      "amount": "100",
       "kind": "Income",
       "category": "Other"
     }
@@ -67,15 +74,11 @@
   "goals": [
     {
       "name": "BacktoNepal",
-      "target": "4000"
+      "target": "8000"
     },
     {
       "name": "Macbook",
       "target": "1200"
-    },
-    {
-      "name": "Chair",
-      "target": "300"
     }
   ]
 }
