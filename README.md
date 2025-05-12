@@ -11,7 +11,7 @@ Features
 - Pie chart showing spending by category
 - Bar chart comparing income, expenses, and savings
 - Data saved locally in a JSON file (`records.json`)
-- Date & time are auto-filled when adding new transactions
+- Date and time are auto-filled when adding new transactions
 
 Why I Made This
 
